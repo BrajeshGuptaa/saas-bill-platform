@@ -1,0 +1,3534 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "require_tenant_admin",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "require_tenant_admin",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_redis_client",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "isExtraImport": true,
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "importPath": "app.services.auth",
+        "description": "app.services.auth",
+        "isExtraImport": true,
+        "detail": "app.services.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_tenant_with_admin",
+        "importPath": "app.services.auth",
+        "description": "app.services.auth",
+        "isExtraImport": true,
+        "detail": "app.services.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "importPath": "app.services.auth",
+        "description": "app.services.auth",
+        "isExtraImport": true,
+        "detail": "app.services.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "importPath": "app.services.auth",
+        "description": "app.services.auth",
+        "isExtraImport": true,
+        "detail": "app.services.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "importPath": "app.services.auth",
+        "description": "app.services.auth",
+        "isExtraImport": true,
+        "detail": "app.services.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "Summary",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "generate_latest",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceOut",
+        "importPath": "app.schemas.invoice",
+        "description": "app.schemas.invoice",
+        "isExtraImport": true,
+        "detail": "app.schemas.invoice",
+        "documentation": {}
+    },
+    {
+        "label": "run_invoicing",
+        "importPath": "app.services.invoices",
+        "description": "app.services.invoices",
+        "isExtraImport": true,
+        "detail": "app.services.invoices",
+        "documentation": {}
+    },
+    {
+        "label": "_refresh_revenue_mv",
+        "importPath": "app.services.invoices",
+        "description": "app.services.invoices",
+        "isExtraImport": true,
+        "detail": "app.services.invoices",
+        "documentation": {}
+    },
+    {
+        "label": "run_invoicing",
+        "importPath": "app.services.invoices",
+        "description": "app.services.invoices",
+        "isExtraImport": true,
+        "detail": "app.services.invoices",
+        "documentation": {}
+    },
+    {
+        "label": "app.domain.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "TenantRevenueMV",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tenant",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceStatus",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "PricingModel",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionStatus",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookDeliveryStatus",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tenant",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Invoice",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceItem",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceStatus",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "PricingModel",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionStatus",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "TenantRevenueMV",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "UsageEvent",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Plan",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "PricingModel",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Plan",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionStatus",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "UsageEvent",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookDelivery",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookDeliveryStatus",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookEvent",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tenant",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tenant",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "PricingModel",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tenant",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Plan",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "isExtraImport": true,
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "MRRResponse",
+        "importPath": "app.schemas.metrics",
+        "description": "app.schemas.metrics",
+        "isExtraImport": true,
+        "detail": "app.schemas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "PlanCreate",
+        "importPath": "app.schemas.plan",
+        "description": "app.schemas.plan",
+        "isExtraImport": true,
+        "detail": "app.schemas.plan",
+        "documentation": {}
+    },
+    {
+        "label": "PlanOut",
+        "importPath": "app.schemas.plan",
+        "description": "app.schemas.plan",
+        "isExtraImport": true,
+        "detail": "app.schemas.plan",
+        "documentation": {}
+    },
+    {
+        "label": "create_plan",
+        "importPath": "app.services.plans",
+        "description": "app.services.plans",
+        "isExtraImport": true,
+        "detail": "app.services.plans",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "invoices",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "metrics",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "plans",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "subscriptions",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "tenants",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "usage",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "webhooks",
+        "importPath": "app.api.v1",
+        "description": "app.api.v1",
+        "isExtraImport": true,
+        "detail": "app.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionCreate",
+        "importPath": "app.schemas.subscription",
+        "description": "app.schemas.subscription",
+        "isExtraImport": true,
+        "detail": "app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionOut",
+        "importPath": "app.schemas.subscription",
+        "description": "app.schemas.subscription",
+        "isExtraImport": true,
+        "detail": "app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "create_subscription",
+        "importPath": "app.services.subscriptions",
+        "description": "app.services.subscriptions",
+        "isExtraImport": true,
+        "detail": "app.services.subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "TenantBootstrapResponse",
+        "importPath": "app.schemas.tenant",
+        "description": "app.schemas.tenant",
+        "isExtraImport": true,
+        "detail": "app.schemas.tenant",
+        "documentation": {}
+    },
+    {
+        "label": "TenantCreate",
+        "importPath": "app.schemas.tenant",
+        "description": "app.schemas.tenant",
+        "isExtraImport": true,
+        "detail": "app.schemas.tenant",
+        "documentation": {}
+    },
+    {
+        "label": "TenantUserCreate",
+        "importPath": "app.schemas.tenant",
+        "description": "app.schemas.tenant",
+        "isExtraImport": true,
+        "detail": "app.schemas.tenant",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "usage_events_counter",
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "isExtraImport": true,
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "invoice_generation_duration",
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "isExtraImport": true,
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "webhook_retry_counter",
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "isExtraImport": true,
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "UsageEventCreate",
+        "importPath": "app.schemas.usage",
+        "description": "app.schemas.usage",
+        "isExtraImport": true,
+        "detail": "app.schemas.usage",
+        "documentation": {}
+    },
+    {
+        "label": "UsageEventOut",
+        "importPath": "app.schemas.usage",
+        "description": "app.schemas.usage",
+        "isExtraImport": true,
+        "detail": "app.schemas.usage",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_usage_event",
+        "importPath": "app.services.usage",
+        "description": "app.services.usage",
+        "isExtraImport": true,
+        "detail": "app.services.usage",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_usage_event",
+        "importPath": "app.services.usage",
+        "description": "app.services.usage",
+        "isExtraImport": true,
+        "detail": "app.services.usage",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookDeliveryOut",
+        "importPath": "app.schemas.webhook",
+        "description": "app.schemas.webhook",
+        "isExtraImport": true,
+        "detail": "app.schemas.webhook",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookEventCreate",
+        "importPath": "app.schemas.webhook",
+        "description": "app.schemas.webhook",
+        "isExtraImport": true,
+        "detail": "app.schemas.webhook",
+        "documentation": {}
+    },
+    {
+        "label": "create_webhook_event",
+        "importPath": "app.services.webhooks",
+        "description": "app.services.webhooks",
+        "isExtraImport": true,
+        "detail": "app.services.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "deliver_webhook",
+        "importPath": "app.services.webhooks",
+        "description": "app.services.webhooks",
+        "isExtraImport": true,
+        "detail": "app.services.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "deliver_webhook",
+        "importPath": "app.services.webhooks",
+        "description": "app.services.webhooks",
+        "isExtraImport": true,
+        "detail": "app.services.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Numeric",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "UniqueConstraint",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "ROUND_HALF_UP",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_flat",
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "isExtraImport": true,
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_tiered",
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "isExtraImport": true,
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_volume",
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "isExtraImport": true,
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_flat",
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "isExtraImport": true,
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_tiered",
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "isExtraImport": true,
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_volume",
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "isExtraImport": true,
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "Redis",
+        "importPath": "redis",
+        "description": "redis",
+        "isExtraImport": true,
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "Redis",
+        "importPath": "redis",
+        "description": "redis",
+        "isExtraImport": true,
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "Redis",
+        "importPath": "redis",
+        "description": "redis",
+        "isExtraImport": true,
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "rq",
+        "description": "rq",
+        "isExtraImport": true,
+        "detail": "rq",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "structlog",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "structlog",
+        "description": "structlog",
+        "detail": "structlog",
+        "documentation": {}
+    },
+    {
+        "label": "ContextVar",
+        "importPath": "contextvars",
+        "description": "contextvars",
+        "isExtraImport": true,
+        "detail": "contextvars",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "isExtraImport": true,
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "importPath": "app.logging_config",
+        "description": "app.logging_config",
+        "isExtraImport": true,
+        "detail": "app.logging_config",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.api.v1.auth",
+        "description": "app.api.v1.auth",
+        "peekOfCode": "def login(payload: LoginRequest, db: Session = Depends(get_db)):\n    token = authenticate_user(db, payload.tenant_id, payload.email, payload.password)\n    db.commit()\n    return Token(access_token=token)",
+        "detail": "app.api.v1.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.auth",
+        "description": "app.api.v1.auth",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/auth/login\", response_model=Token)\ndef login(payload: LoginRequest, db: Session = Depends(get_db)):\n    token = authenticate_user(db, payload.tenant_id, payload.email, payload.password)\n    db.commit()\n    return Token(access_token=token)",
+        "detail": "app.api.v1.auth",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "peekOfCode": "def health():\n    return {\"status\": \"ok\"}\n@router.get(\"/readyz\")\ndef ready():\n    return {\"ready\": True}\n@router.get(\"/metrics\")\ndef metrics():\n    content = generate_latest()\n    return Response(content=content, media_type=\"text/plain\")",
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "ready",
+        "kind": 2,
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "peekOfCode": "def ready():\n    return {\"ready\": True}\n@router.get(\"/metrics\")\ndef metrics():\n    content = generate_latest()\n    return Response(content=content, media_type=\"text/plain\")",
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "metrics",
+        "kind": 2,
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "peekOfCode": "def metrics():\n    content = generate_latest()\n    return Response(content=content, media_type=\"text/plain\")",
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "peekOfCode": "router = APIRouter()\nusage_events_counter = Counter(\"usage_events_total\", \"Usage events ingested\")\ninvoice_generation_duration = Summary(\"invoice_generation_duration_seconds\", \"Invoice generation duration\")\nwebhook_retry_counter = Counter(\"webhook_retry_total\", \"Webhook delivery retries\")\n@router.get(\"/healthz\")\ndef health():\n    return {\"status\": \"ok\"}\n@router.get(\"/readyz\")\ndef ready():\n    return {\"ready\": True}",
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "usage_events_counter",
+        "kind": 5,
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "peekOfCode": "usage_events_counter = Counter(\"usage_events_total\", \"Usage events ingested\")\ninvoice_generation_duration = Summary(\"invoice_generation_duration_seconds\", \"Invoice generation duration\")\nwebhook_retry_counter = Counter(\"webhook_retry_total\", \"Webhook delivery retries\")\n@router.get(\"/healthz\")\ndef health():\n    return {\"status\": \"ok\"}\n@router.get(\"/readyz\")\ndef ready():\n    return {\"ready\": True}\n@router.get(\"/metrics\")",
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "invoice_generation_duration",
+        "kind": 5,
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "peekOfCode": "invoice_generation_duration = Summary(\"invoice_generation_duration_seconds\", \"Invoice generation duration\")\nwebhook_retry_counter = Counter(\"webhook_retry_total\", \"Webhook delivery retries\")\n@router.get(\"/healthz\")\ndef health():\n    return {\"status\": \"ok\"}\n@router.get(\"/readyz\")\ndef ready():\n    return {\"ready\": True}\n@router.get(\"/metrics\")\ndef metrics():",
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "webhook_retry_counter",
+        "kind": 5,
+        "importPath": "app.api.v1.health",
+        "description": "app.api.v1.health",
+        "peekOfCode": "webhook_retry_counter = Counter(\"webhook_retry_total\", \"Webhook delivery retries\")\n@router.get(\"/healthz\")\ndef health():\n    return {\"status\": \"ok\"}\n@router.get(\"/readyz\")\ndef ready():\n    return {\"ready\": True}\n@router.get(\"/metrics\")\ndef metrics():\n    content = generate_latest()",
+        "detail": "app.api.v1.health",
+        "documentation": {}
+    },
+    {
+        "label": "run_invoices_endpoint",
+        "kind": 2,
+        "importPath": "app.api.v1.invoices",
+        "description": "app.api.v1.invoices",
+        "peekOfCode": "def run_invoices_endpoint(\n    tenant_id: str = Path(...),\n    db: Session = Depends(get_db),\n    user=Depends(get_current_user),\n):\n    if str(user.tenant_id) != tenant_id:\n        raise HTTPException(status_code=403, detail=\"Tenant mismatch\")\n    invoices = run_invoicing(db, tenant_id)\n    db.commit()\n    results: list[InvoiceOut] = []",
+        "detail": "app.api.v1.invoices",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.invoices",
+        "description": "app.api.v1.invoices",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/tenants/{tenant_id}/invoices/run\", response_model=list[InvoiceOut])\ndef run_invoices_endpoint(\n    tenant_id: str = Path(...),\n    db: Session = Depends(get_db),\n    user=Depends(get_current_user),\n):\n    if str(user.tenant_id) != tenant_id:\n        raise HTTPException(status_code=403, detail=\"Tenant mismatch\")\n    invoices = run_invoicing(db, tenant_id)",
+        "detail": "app.api.v1.invoices",
+        "documentation": {}
+    },
+    {
+        "label": "get_mrr",
+        "kind": 2,
+        "importPath": "app.api.v1.metrics",
+        "description": "app.api.v1.metrics",
+        "peekOfCode": "def get_mrr(\n    tenant_id: str = Path(...),\n    db: Session = Depends(get_db),\n    user=Depends(get_current_user),\n):\n    if str(user.tenant_id) != tenant_id:\n        raise HTTPException(status_code=403, detail=\"Tenant mismatch\")\n    mv = db.query(TenantRevenueMV).filter(TenantRevenueMV.tenant_id == tenant_id).first()\n    if mv is None:\n        _refresh_revenue_mv(db, tenant_id)",
+        "detail": "app.api.v1.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.metrics",
+        "description": "app.api.v1.metrics",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/tenants/{tenant_id}/metrics/mrr\", response_model=MRRResponse)\ndef get_mrr(\n    tenant_id: str = Path(...),\n    db: Session = Depends(get_db),\n    user=Depends(get_current_user),\n):\n    if str(user.tenant_id) != tenant_id:\n        raise HTTPException(status_code=403, detail=\"Tenant mismatch\")\n    mv = db.query(TenantRevenueMV).filter(TenantRevenueMV.tenant_id == tenant_id).first()",
+        "detail": "app.api.v1.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "create_plan_endpoint",
+        "kind": 2,
+        "importPath": "app.api.v1.plans",
+        "description": "app.api.v1.plans",
+        "peekOfCode": "def create_plan_endpoint(\n    payload: PlanCreate,\n    tenant_id: str = Path(...),\n    db: Session = Depends(get_db),\n    admin=Depends(require_tenant_admin),\n):\n    if str(admin.tenant_id) != tenant_id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Tenant mismatch\")\n    name = (payload.name or \"\").strip()\n    if not name:",
+        "detail": "app.api.v1.plans",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.plans",
+        "description": "app.api.v1.plans",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/tenants/{tenant_id}/plans\", response_model=PlanOut, status_code=status.HTTP_201_CREATED)\ndef create_plan_endpoint(\n    payload: PlanCreate,\n    tenant_id: str = Path(...),\n    db: Session = Depends(get_db),\n    admin=Depends(require_tenant_admin),\n):\n    if str(admin.tenant_id) != tenant_id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Tenant mismatch\")",
+        "detail": "app.api.v1.plans",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "kind": 5,
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "peekOfCode": "api_router = APIRouter(prefix=\"/v1\")\napi_router.include_router(health.router)\napi_router.include_router(auth.router)\napi_router.include_router(tenants.router)\napi_router.include_router(plans.router)\napi_router.include_router(subscriptions.router)\napi_router.include_router(usage.router)\napi_router.include_router(invoices.router)\napi_router.include_router(webhooks.router)\napi_router.include_router(metrics.router)",
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "create_subscription_endpoint",
+        "kind": 2,
+        "importPath": "app.api.v1.subscriptions",
+        "description": "app.api.v1.subscriptions",
+        "peekOfCode": "def create_subscription_endpoint(\n    payload: SubscriptionCreate,\n    tenant_id: str = Path(...),\n    db: Session = Depends(get_db),\n    user=Depends(get_current_user),\n):\n    if str(user.tenant_id) != tenant_id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Tenant mismatch\")\n    try:\n        sub = create_subscription(",
+        "detail": "app.api.v1.subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.subscriptions",
+        "description": "app.api.v1.subscriptions",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/tenants/{tenant_id}/subscriptions\", response_model=SubscriptionOut, status_code=status.HTTP_201_CREATED)\ndef create_subscription_endpoint(\n    payload: SubscriptionCreate,\n    tenant_id: str = Path(...),\n    db: Session = Depends(get_db),\n    user=Depends(get_current_user),\n):\n    if str(user.tenant_id) != tenant_id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Tenant mismatch\")",
+        "detail": "app.api.v1.subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "create_tenant",
+        "kind": 2,
+        "importPath": "app.api.v1.tenants",
+        "description": "app.api.v1.tenants",
+        "peekOfCode": "def create_tenant(payload: TenantCreate, db: Session = Depends(get_db)):\n    tenant, admin, token = create_tenant_with_admin(\n        db, name=payload.name, admin_email=payload.admin_email, admin_password=payload.admin_password, webhook_url=payload.webhook_url\n    )\n    db.commit()\n    return {\n        \"tenant\": {\"id\": str(tenant.id), \"name\": tenant.name, \"webhook_url\": tenant.webhook_url},\n        \"admin\": {\"id\": str(admin.id), \"email\": admin.email, \"role\": admin.role},\n        \"token\": token,\n    }",
+        "detail": "app.api.v1.tenants",
+        "documentation": {}
+    },
+    {
+        "label": "create_tenant_user",
+        "kind": 2,
+        "importPath": "app.api.v1.tenants",
+        "description": "app.api.v1.tenants",
+        "peekOfCode": "def create_tenant_user(\n    payload: TenantUserCreate,\n    tenant_id: str = Path(..., alias=\"tenant_id\"),\n    db: Session = Depends(get_db),\n    admin=Depends(require_tenant_admin),\n):\n    if str(admin.tenant_id) != tenant_id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Tenant mismatch\")\n    role = Role(payload.role) if isinstance(payload.role, str) else payload.role\n    user = create_user(db, tenant_id=tenant_id, email=payload.email, password=payload.password, role=role)",
+        "detail": "app.api.v1.tenants",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.tenants",
+        "description": "app.api.v1.tenants",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/tenants\", response_model=TenantBootstrapResponse, status_code=status.HTTP_201_CREATED)\ndef create_tenant(payload: TenantCreate, db: Session = Depends(get_db)):\n    tenant, admin, token = create_tenant_with_admin(\n        db, name=payload.name, admin_email=payload.admin_email, admin_password=payload.admin_password, webhook_url=payload.webhook_url\n    )\n    db.commit()\n    return {\n        \"tenant\": {\"id\": str(tenant.id), \"name\": tenant.name, \"webhook_url\": tenant.webhook_url},\n        \"admin\": {\"id\": str(admin.id), \"email\": admin.email, \"role\": admin.role},",
+        "detail": "app.api.v1.tenants",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_usage",
+        "kind": 2,
+        "importPath": "app.api.v1.usage",
+        "description": "app.api.v1.usage",
+        "peekOfCode": "def ingest_usage(\n    payload: UsageEventCreate,\n    tenant_id: str = Path(...),\n    idempotency_key: str | None = Header(default=None, alias=\"Idempotency-Key\"),\n    db: Session = Depends(get_db),\n    user=Depends(get_current_user),\n    redis_client=Depends(get_redis_client),\n):\n    if str(user.tenant_id) != tenant_id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Tenant mismatch\")",
+        "detail": "app.api.v1.usage",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.usage",
+        "description": "app.api.v1.usage",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/tenants/{tenant_id}/usage\", response_model=dict, status_code=status.HTTP_201_CREATED)\ndef ingest_usage(\n    payload: UsageEventCreate,\n    tenant_id: str = Path(...),\n    idempotency_key: str | None = Header(default=None, alias=\"Idempotency-Key\"),\n    db: Session = Depends(get_db),\n    user=Depends(get_current_user),\n    redis_client=Depends(get_redis_client),\n):",
+        "detail": "app.api.v1.usage",
+        "documentation": {}
+    },
+    {
+        "label": "handle_payment_webhook",
+        "kind": 2,
+        "importPath": "app.api.v1.webhooks",
+        "description": "app.api.v1.webhooks",
+        "peekOfCode": "def handle_payment_webhook(payload: WebhookEventCreate, db: Session = Depends(get_db)):\n    tenant: Tenant | None = db.get(Tenant, payload.tenant_id)\n    if tenant is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=\"Tenant not found\")\n    delivery = create_webhook_event(db, tenant_id=payload.tenant_id, event_type=payload.type, payload=payload.payload)\n    if tenant.webhook_url:\n        delivery = deliver_webhook(db, str(delivery.id), tenant.webhook_url)\n    db.commit()\n    return WebhookDeliveryOut.model_validate(delivery)",
+        "detail": "app.api.v1.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.webhooks",
+        "description": "app.api.v1.webhooks",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/webhooks/payment\", response_model=WebhookDeliveryOut, status_code=status.HTTP_202_ACCEPTED)\ndef handle_payment_webhook(payload: WebhookEventCreate, db: Session = Depends(get_db)):\n    tenant: Tenant | None = db.get(Tenant, payload.tenant_id)\n    if tenant is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=\"Tenant not found\")\n    delivery = create_webhook_event(db, tenant_id=payload.tenant_id, event_type=payload.type, payload=payload.payload)\n    if tenant.webhook_url:\n        delivery = deliver_webhook(db, str(delivery.id), tenant.webhook_url)\n    db.commit()",
+        "detail": "app.api.v1.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class Role(str, Enum):\n    admin = \"admin\"\n    finance = \"finance\"\n    read_only = \"read_only\"\nclass PricingModel(str, Enum):\n    flat = \"flat\"\n    tiered = \"tiered\"\n    volume = \"volume\"\nclass SubscriptionStatus(str, Enum):\n    active = \"active\"",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "PricingModel",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class PricingModel(str, Enum):\n    flat = \"flat\"\n    tiered = \"tiered\"\n    volume = \"volume\"\nclass SubscriptionStatus(str, Enum):\n    active = \"active\"\n    canceled = \"canceled\"\n    past_due = \"past_due\"\n    trialing = \"trialing\"\nclass InvoiceStatus(str, Enum):",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionStatus",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class SubscriptionStatus(str, Enum):\n    active = \"active\"\n    canceled = \"canceled\"\n    past_due = \"past_due\"\n    trialing = \"trialing\"\nclass InvoiceStatus(str, Enum):\n    draft = \"draft\"\n    sent = \"sent\"\n    paid = \"paid\"\n    failed = \"failed\"",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceStatus",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class InvoiceStatus(str, Enum):\n    draft = \"draft\"\n    sent = \"sent\"\n    paid = \"paid\"\n    failed = \"failed\"\nclass WebhookDeliveryStatus(str, Enum):\n    pending = \"pending\"\n    delivered = \"delivered\"\n    failed = \"failed\"\n    dead_lettered = \"dead_lettered\"",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookDeliveryStatus",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class WebhookDeliveryStatus(str, Enum):\n    pending = \"pending\"\n    delivered = \"delivered\"\n    failed = \"failed\"\n    dead_lettered = \"dead_lettered\"\ndef _uuid() -> uuid.UUID:\n    return uuid.uuid4()\nclass Tenant(Base):\n    __tablename__ = \"tenants\"\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tenant",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class Tenant(Base):\n    __tablename__ = \"tenants\"\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    name: Mapped[str] = mapped_column(String(255), unique=True, nullable=False)\n    webhook_url: Mapped[str | None] = mapped_column(String(500), nullable=True)\n    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())\n    users: Mapped[list[\"User\"]] = relationship(\"User\", back_populates=\"tenant\", cascade=\"all, delete-orphan\")\nclass User(Base):\n    __tablename__ = \"users\"\n    __table_args__ = (UniqueConstraint(\"tenant_id\", \"email\", name=\"uq_user_email_tenant\"),)",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    __table_args__ = (UniqueConstraint(\"tenant_id\", \"email\", name=\"uq_user_email_tenant\"),)\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    tenant_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"tenants.id\", ondelete=\"CASCADE\"), nullable=False)\n    email: Mapped[str] = mapped_column(String(255), nullable=False)\n    hashed_password: Mapped[str] = mapped_column(String(255), nullable=False)\n    role: Mapped[Role] = mapped_column(PgEnum(Role), default=Role.admin, nullable=False)\n    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())\n    tenant: Mapped[\"Tenant\"] = relationship(\"Tenant\", back_populates=\"users\")",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "APIKey",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class APIKey(Base):\n    __tablename__ = \"api_keys\"\n    __table_args__ = (UniqueConstraint(\"tenant_id\", \"key\", name=\"uq_api_key\"),)\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    tenant_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"tenants.id\", ondelete=\"CASCADE\"), nullable=False)\n    name: Mapped[str] = mapped_column(String(255), nullable=False)\n    key: Mapped[str] = mapped_column(String(255), nullable=False)\n    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())\n    tenant: Mapped[\"Tenant\"] = relationship(\"Tenant\")\nclass Product(Base):",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class Product(Base):\n    __tablename__ = \"products\"\n    __table_args__ = (UniqueConstraint(\"tenant_id\", \"name\", name=\"uq_product_name_tenant\"),)\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    tenant_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"tenants.id\", ondelete=\"CASCADE\"), nullable=False)\n    name: Mapped[str] = mapped_column(String(255), nullable=False)\n    description: Mapped[str | None] = mapped_column(String(500))\n    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())\n    tenant: Mapped[\"Tenant\"] = relationship(\"Tenant\")\n    plans: Mapped[list[\"Plan\"]] = relationship(\"Plan\", back_populates=\"product\")",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Plan",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class Plan(Base):\n    __tablename__ = \"plans\"\n    __table_args__ = (UniqueConstraint(\"tenant_id\", \"name\", name=\"uq_plan_name_tenant\"),)\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    tenant_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"tenants.id\", ondelete=\"CASCADE\"), nullable=False)\n    product_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"products.id\", ondelete=\"CASCADE\"), nullable=False)\n    name: Mapped[str] = mapped_column(String(255), nullable=False)\n    pricing_model: Mapped[PricingModel] = mapped_column(PgEnum(PricingModel), nullable=False)\n    currency: Mapped[str] = mapped_column(String(3), default=\"USD\", nullable=False)\n    price: Mapped[Numeric] = mapped_column(Numeric(12, 2), nullable=False, default=0)",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class Subscription(Base):\n    __tablename__ = \"subscriptions\"\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    tenant_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"tenants.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    plan_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"plans.id\", ondelete=\"CASCADE\"), nullable=False)\n    status: Mapped[SubscriptionStatus] = mapped_column(PgEnum(SubscriptionStatus), default=SubscriptionStatus.active)\n    quantity: Mapped[int] = mapped_column(Integer, default=1)\n    current_period_start: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=func.now())\n    current_period_end: Mapped[datetime] = mapped_column(DateTime(timezone=True))\n    trial_end: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "UsageEvent",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class UsageEvent(Base):\n    __tablename__ = \"usage_events\"\n    __table_args__ = (UniqueConstraint(\"idempotency_key\", name=\"uq_usage_idempotency\"),)\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    tenant_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"tenants.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    subscription_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"subscriptions.id\", ondelete=\"CASCADE\"), nullable=False)\n    metric: Mapped[str] = mapped_column(String(255), nullable=False)\n    quantity: Mapped[Numeric] = mapped_column(Numeric(18, 6), nullable=False)\n    ts: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=func.now(), index=True)\n    idempotency_key: Mapped[str] = mapped_column(String(255), nullable=False)",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Invoice",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class Invoice(Base):\n    __tablename__ = \"invoices\"\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    tenant_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"tenants.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    subscription_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"subscriptions.id\", ondelete=\"SET NULL\"), nullable=True)\n    total: Mapped[Numeric] = mapped_column(Numeric(12, 2), nullable=False, default=0)\n    currency: Mapped[str] = mapped_column(String(3), default=\"USD\", nullable=False)\n    period_start: Mapped[datetime] = mapped_column(DateTime(timezone=True))\n    period_end: Mapped[datetime] = mapped_column(DateTime(timezone=True))\n    status: Mapped[InvoiceStatus] = mapped_column(PgEnum(InvoiceStatus), default=InvoiceStatus.draft)",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceItem",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class InvoiceItem(Base):\n    __tablename__ = \"invoice_items\"\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    invoice_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"invoices.id\", ondelete=\"CASCADE\"), nullable=False)\n    description: Mapped[str] = mapped_column(String(255), nullable=False)\n    quantity: Mapped[int] = mapped_column(Integer, default=1)\n    unit_amount: Mapped[Numeric] = mapped_column(Numeric(12, 2), nullable=False)\n    amount: Mapped[Numeric] = mapped_column(Numeric(12, 2), nullable=False)\n    invoice: Mapped[\"Invoice\"] = relationship(\"Invoice\", back_populates=\"items\")\nclass WebhookEvent(Base):",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookEvent",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class WebhookEvent(Base):\n    __tablename__ = \"webhook_events\"\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    tenant_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"tenants.id\", ondelete=\"CASCADE\"), nullable=False)\n    type: Mapped[str] = mapped_column(String(100), nullable=False)\n    payload: Mapped[dict] = mapped_column(JSON, nullable=False)\n    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())\nclass WebhookDelivery(Base):\n    __tablename__ = \"webhook_deliveries\"\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookDelivery",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class WebhookDelivery(Base):\n    __tablename__ = \"webhook_deliveries\"\n    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=_uuid)\n    event_id: Mapped[uuid.UUID] = mapped_column(ForeignKey(\"webhook_events.id\", ondelete=\"CASCADE\"), nullable=False)\n    status: Mapped[WebhookDeliveryStatus] = mapped_column(PgEnum(WebhookDeliveryStatus), default=WebhookDeliveryStatus.pending)\n    attempts: Mapped[int] = mapped_column(Integer, default=0)\n    next_attempt_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))\n    last_error: Mapped[str | None] = mapped_column(String(500))\n    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())\n    event: Mapped[\"WebhookEvent\"] = relationship(\"WebhookEvent\")",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "TenantRevenueMV",
+        "kind": 6,
+        "importPath": "app.domain.models",
+        "description": "app.domain.models",
+        "peekOfCode": "class TenantRevenueMV(Base):\n    __tablename__ = \"tenant_revenue_mv\"\n    tenant_id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True)\n    monthly_recurring_revenue: Mapped[Numeric] = mapped_column(Numeric(12, 2), nullable=False, default=0)\n    annual_run_rate: Mapped[Numeric] = mapped_column(Numeric(12, 2), nullable=False, default=0)\n    refreshed_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now(), onupdate=func.now())",
+        "detail": "app.domain.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str = \"bearer\"\nclass LoginRequest(BaseModel):\n    tenant_id: str = Field(..., examples=[\"tenant-uuid\"])\n    email: str\n    password: str",
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "kind": 6,
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    tenant_id: str = Field(..., examples=[\"tenant-uuid\"])\n    email: str\n    password: str",
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceItemOut",
+        "kind": 6,
+        "importPath": "app.schemas.invoice",
+        "description": "app.schemas.invoice",
+        "peekOfCode": "class InvoiceItemOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    description: str\n    quantity: int\n    unit_amount: float\n    amount: float\nclass InvoiceOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str",
+        "detail": "app.schemas.invoice",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceOut",
+        "kind": 6,
+        "importPath": "app.schemas.invoice",
+        "description": "app.schemas.invoice",
+        "peekOfCode": "class InvoiceOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    total: float\n    currency: str\n    period_start: datetime\n    period_end: datetime\n    status: InvoiceStatus\n    items: List[InvoiceItemOut] = []",
+        "detail": "app.schemas.invoice",
+        "documentation": {}
+    },
+    {
+        "label": "MRRResponse",
+        "kind": 6,
+        "importPath": "app.schemas.metrics",
+        "description": "app.schemas.metrics",
+        "peekOfCode": "class MRRResponse(BaseModel):\n    tenant_id: str\n    monthly_recurring_revenue: float\n    annual_run_rate: float",
+        "detail": "app.schemas.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "PricingTier",
+        "kind": 6,
+        "importPath": "app.schemas.plan",
+        "description": "app.schemas.plan",
+        "peekOfCode": "class PricingTier(BaseModel):\n    up_to: int = Field(..., description=\"Inclusive quantity for the tier\")\n    unit_amount: float\nclass PlanCreate(BaseModel):\n    name: str = Field(..., min_length=1)\n    product_name: str | None = None\n    product_id: str | None = None\n    pricing_model: PricingModel\n    currency: str = \"USD\"\n    price: float = 0",
+        "detail": "app.schemas.plan",
+        "documentation": {}
+    },
+    {
+        "label": "PlanCreate",
+        "kind": 6,
+        "importPath": "app.schemas.plan",
+        "description": "app.schemas.plan",
+        "peekOfCode": "class PlanCreate(BaseModel):\n    name: str = Field(..., min_length=1)\n    product_name: str | None = None\n    product_id: str | None = None\n    pricing_model: PricingModel\n    currency: str = \"USD\"\n    price: float = 0\n    tiers: Optional[List[PricingTier]] = None\nclass PlanOut(BaseModel):\n    model_config = {\"from_attributes\": True}",
+        "detail": "app.schemas.plan",
+        "documentation": {}
+    },
+    {
+        "label": "PlanOut",
+        "kind": 6,
+        "importPath": "app.schemas.plan",
+        "description": "app.schemas.plan",
+        "peekOfCode": "class PlanOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    name: str\n    pricing_model: PricingModel\n    currency: str\n    price: float\n    tiers: Optional[list[dict]] = None",
+        "detail": "app.schemas.plan",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionCreate",
+        "kind": 6,
+        "importPath": "app.schemas.subscription",
+        "description": "app.schemas.subscription",
+        "peekOfCode": "class SubscriptionCreate(BaseModel):\n    plan_id: str\n    quantity: int = 1\n    trial_days: int | None = None\nclass SubscriptionOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    plan_id: str\n    status: SubscriptionStatus\n    quantity: int",
+        "detail": "app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionOut",
+        "kind": 6,
+        "importPath": "app.schemas.subscription",
+        "description": "app.schemas.subscription",
+        "peekOfCode": "class SubscriptionOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    plan_id: str\n    status: SubscriptionStatus\n    quantity: int\n    current_period_start: datetime\n    current_period_end: datetime\n    trial_end: datetime | None = None",
+        "detail": "app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "TenantCreate",
+        "kind": 6,
+        "importPath": "app.schemas.tenant",
+        "description": "app.schemas.tenant",
+        "peekOfCode": "class TenantCreate(BaseModel):\n    name: str\n    admin_email: EmailStr\n    admin_password: str\n    webhook_url: str | None = None\nclass TenantOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    name: str\n    webhook_url: str | None = None",
+        "detail": "app.schemas.tenant",
+        "documentation": {}
+    },
+    {
+        "label": "TenantOut",
+        "kind": 6,
+        "importPath": "app.schemas.tenant",
+        "description": "app.schemas.tenant",
+        "peekOfCode": "class TenantOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    name: str\n    webhook_url: str | None = None\nclass TenantUserCreate(BaseModel):\n    email: EmailStr\n    password: str\n    role: str = \"read_only\"\nclass TenantWithAdmin(BaseModel):",
+        "detail": "app.schemas.tenant",
+        "documentation": {}
+    },
+    {
+        "label": "TenantUserCreate",
+        "kind": 6,
+        "importPath": "app.schemas.tenant",
+        "description": "app.schemas.tenant",
+        "peekOfCode": "class TenantUserCreate(BaseModel):\n    email: EmailStr\n    password: str\n    role: str = \"read_only\"\nclass TenantWithAdmin(BaseModel):\n    tenant: TenantOut\n    admin: UserOut\nclass TenantBootstrapResponse(BaseModel):\n    tenant: TenantOut\n    admin: UserOut",
+        "detail": "app.schemas.tenant",
+        "documentation": {}
+    },
+    {
+        "label": "TenantWithAdmin",
+        "kind": 6,
+        "importPath": "app.schemas.tenant",
+        "description": "app.schemas.tenant",
+        "peekOfCode": "class TenantWithAdmin(BaseModel):\n    tenant: TenantOut\n    admin: UserOut\nclass TenantBootstrapResponse(BaseModel):\n    tenant: TenantOut\n    admin: UserOut\n    token: str",
+        "detail": "app.schemas.tenant",
+        "documentation": {}
+    },
+    {
+        "label": "TenantBootstrapResponse",
+        "kind": 6,
+        "importPath": "app.schemas.tenant",
+        "description": "app.schemas.tenant",
+        "peekOfCode": "class TenantBootstrapResponse(BaseModel):\n    tenant: TenantOut\n    admin: UserOut\n    token: str",
+        "detail": "app.schemas.tenant",
+        "documentation": {}
+    },
+    {
+        "label": "UsageEventCreate",
+        "kind": 6,
+        "importPath": "app.schemas.usage",
+        "description": "app.schemas.usage",
+        "peekOfCode": "class UsageEventCreate(BaseModel):\n    subscription_id: str\n    metric: str\n    quantity: float\n    ts: datetime | None = None\nclass UsageEventOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    subscription_id: str\n    metric: str",
+        "detail": "app.schemas.usage",
+        "documentation": {}
+    },
+    {
+        "label": "UsageEventOut",
+        "kind": 6,
+        "importPath": "app.schemas.usage",
+        "description": "app.schemas.usage",
+        "peekOfCode": "class UsageEventOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    subscription_id: str\n    metric: str\n    quantity: float\n    ts: datetime\n    idempotency_key: str",
+        "detail": "app.schemas.usage",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserCreate(BaseModel):\n    email: EmailStr\n    password: str\n    role: Role = Role.read_only\nclass UserOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    email: EmailStr\n    role: Role",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    email: EmailStr\n    role: Role",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookEventCreate",
+        "kind": 6,
+        "importPath": "app.schemas.webhook",
+        "description": "app.schemas.webhook",
+        "peekOfCode": "class WebhookEventCreate(BaseModel):\n    tenant_id: str\n    type: str\n    payload: Dict[str, Any]\nclass WebhookDeliveryOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    status: WebhookDeliveryStatus\n    attempts: int\n    next_attempt_at: datetime | None = None",
+        "detail": "app.schemas.webhook",
+        "documentation": {}
+    },
+    {
+        "label": "WebhookDeliveryOut",
+        "kind": 6,
+        "importPath": "app.schemas.webhook",
+        "description": "app.schemas.webhook",
+        "peekOfCode": "class WebhookDeliveryOut(BaseModel):\n    model_config = {\"from_attributes\": True}\n    id: str\n    status: WebhookDeliveryStatus\n    attempts: int\n    next_attempt_at: datetime | None = None\n    last_error: str | None = None",
+        "detail": "app.schemas.webhook",
+        "documentation": {}
+    },
+    {
+        "label": "create_tenant_with_admin",
+        "kind": 2,
+        "importPath": "app.services.auth",
+        "description": "app.services.auth",
+        "peekOfCode": "def create_tenant_with_admin(\n    db: Session, name: str, admin_email: str, admin_password: str, webhook_url: str | None = None\n) -> tuple[Tenant, User, str]:\n    # guard duplicate names early to avoid IntegrityError bubbling as 500\n    existing = db.query(Tenant).filter(Tenant.name == name).first()\n    if existing:\n        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=\"Tenant name already exists\")\n    tenant = Tenant(name=name, webhook_url=webhook_url)\n    db.add(tenant)\n    try:",
+        "detail": "app.services.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "app.services.auth",
+        "description": "app.services.auth",
+        "peekOfCode": "def create_user(db: Session, tenant_id: str, email: str, password: str, role: Role) -> User:\n    tenant_uuid = uuid.UUID(str(tenant_id))\n    user = User(\n        tenant_id=tenant_uuid,\n        email=email,\n        hashed_password=get_password_hash(password),\n        role=role,\n    )\n    db.add(user)\n    db.flush()",
+        "detail": "app.services.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "kind": 2,
+        "importPath": "app.services.auth",
+        "description": "app.services.auth",
+        "peekOfCode": "def authenticate_user(db: Session, tenant_id: str, email: str, password: str) -> str:\n    tenant_uuid = uuid.UUID(str(tenant_id))\n    user: User | None = (\n        db.query(User)\n        .filter(User.tenant_id == tenant_uuid)\n        .filter(User.email == email)\n        .first()\n    )\n    if not user or not verify_password(password, user.hashed_password):\n        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail=\"Incorrect credentials\")",
+        "detail": "app.services.auth",
+        "documentation": {}
+    },
+    {
+        "label": "generate_invoice_for_subscription",
+        "kind": 2,
+        "importPath": "app.services.invoices",
+        "description": "app.services.invoices",
+        "peekOfCode": "def generate_invoice_for_subscription(db: Session, subscription: Subscription) -> Invoice:\n    plan = subscription.plan\n    usage_quantity = db.query(func.coalesce(func.sum(UsageEvent.quantity), 0)).filter(\n        UsageEvent.subscription_id == subscription.id,\n        UsageEvent.ts >= subscription.current_period_start,\n        UsageEvent.ts < subscription.current_period_end,\n    ).scalar()\n    usage_quantity = Decimal(str(usage_quantity or 0))\n    amount = _invoice_amount(plan, subscription, usage_quantity)\n    invoice = Invoice(",
+        "detail": "app.services.invoices",
+        "documentation": {}
+    },
+    {
+        "label": "run_invoicing",
+        "kind": 2,
+        "importPath": "app.services.invoices",
+        "description": "app.services.invoices",
+        "peekOfCode": "def run_invoicing(db: Session, tenant_id: str) -> List[Invoice]:\n    with invoice_generation_duration.time():\n        active_subs = (\n            db.query(Subscription)\n            .filter(Subscription.tenant_id == tenant_id)\n            .filter(Subscription.status == SubscriptionStatus.active)\n            .all()\n        )\n        invoices: List[Invoice] = []\n        for sub in active_subs:",
+        "detail": "app.services.invoices",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_create_product",
+        "kind": 2,
+        "importPath": "app.services.plans",
+        "description": "app.services.plans",
+        "peekOfCode": "def get_or_create_product(db: Session, tenant_id: str, name: str, description: str | None = None) -> Product:\n    product = (\n        db.query(Product)\n        .filter(Product.tenant_id == tenant_id)\n        .filter(Product.name == name)\n        .first()\n    )\n    if product:\n        return product\n    product = Product(tenant_id=tenant_id, name=name, description=description)",
+        "detail": "app.services.plans",
+        "documentation": {}
+    },
+    {
+        "label": "create_plan",
+        "kind": 2,
+        "importPath": "app.services.plans",
+        "description": "app.services.plans",
+        "peekOfCode": "def create_plan(\n    db: Session,\n    tenant_id: str,\n    name: str,\n    pricing_model: PricingModel,\n    currency: str,\n    price: float,\n    tiers: list[dict] | None,\n    product_id: str | None = None,\n    product_name: str | None = None,",
+        "detail": "app.services.plans",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_flat",
+        "kind": 2,
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "peekOfCode": "def calculate_flat(price: float | Decimal, quantity: int | float) -> Decimal:\n    total = _to_decimal(price) * _to_decimal(quantity)\n    return _round_currency(total)\ndef calculate_tiered(tiers: List[dict], quantity: int | float) -> Decimal:\n    remaining = _to_decimal(quantity)\n    total = Decimal(\"0\")\n    previous_cap: Optional[Decimal] = Decimal(\"0\")\n    for tier in sorted(tiers, key=lambda t: t.get(\"up_to\") or float(\"inf\")):\n        cap = _to_decimal(tier.get(\"up_to\") or remaining + previous_cap)\n        tier_units = min(remaining, cap - previous_cap)",
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_tiered",
+        "kind": 2,
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "peekOfCode": "def calculate_tiered(tiers: List[dict], quantity: int | float) -> Decimal:\n    remaining = _to_decimal(quantity)\n    total = Decimal(\"0\")\n    previous_cap: Optional[Decimal] = Decimal(\"0\")\n    for tier in sorted(tiers, key=lambda t: t.get(\"up_to\") or float(\"inf\")):\n        cap = _to_decimal(tier.get(\"up_to\") or remaining + previous_cap)\n        tier_units = min(remaining, cap - previous_cap)\n        if tier_units <= 0:\n            previous_cap = cap\n            continue",
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_volume",
+        "kind": 2,
+        "importPath": "app.services.pricing",
+        "description": "app.services.pricing",
+        "peekOfCode": "def calculate_volume(tiers: List[dict], quantity: int | float) -> Decimal:\n    applicable = None\n    qty = _to_decimal(quantity)\n    for tier in sorted(tiers, key=lambda t: t.get(\"up_to\") or float(\"inf\")):\n        cap = tier.get(\"up_to\")\n        if cap is None or qty <= _to_decimal(cap):\n            applicable = tier\n            break\n    if applicable is None:\n        applicable = tiers[-1]",
+        "detail": "app.services.pricing",
+        "documentation": {}
+    },
+    {
+        "label": "period_end",
+        "kind": 2,
+        "importPath": "app.services.subscriptions",
+        "description": "app.services.subscriptions",
+        "peekOfCode": "def period_end(start: datetime, days: int = DEFAULT_PERIOD_DAYS) -> datetime:\n    return start + timedelta(days=days)\ndef create_subscription(\n    db: Session, tenant_id: str, plan_id: str, quantity: int, trial_days: int | None = None\n) -> Subscription:\n    now = datetime.now(timezone.utc)\n    plan: Plan | None = db.query(Plan).filter(Plan.id == plan_id, Plan.tenant_id == tenant_id).first()\n    if plan is None:\n        raise ValueError(\"Plan not found for tenant\")\n    current_end = period_end(now)",
+        "detail": "app.services.subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "create_subscription",
+        "kind": 2,
+        "importPath": "app.services.subscriptions",
+        "description": "app.services.subscriptions",
+        "peekOfCode": "def create_subscription(\n    db: Session, tenant_id: str, plan_id: str, quantity: int, trial_days: int | None = None\n) -> Subscription:\n    now = datetime.now(timezone.utc)\n    plan: Plan | None = db.query(Plan).filter(Plan.id == plan_id, Plan.tenant_id == tenant_id).first()\n    if plan is None:\n        raise ValueError(\"Plan not found for tenant\")\n    current_end = period_end(now)\n    status = SubscriptionStatus.trialing if trial_days else SubscriptionStatus.active\n    trial_end = now + timedelta(days=trial_days) if trial_days else None",
+        "detail": "app.services.subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "mark_proration_required",
+        "kind": 2,
+        "importPath": "app.services.subscriptions",
+        "description": "app.services.subscriptions",
+        "peekOfCode": "def mark_proration_required(db: Session, subscription: Subscription) -> None:\n    subscription.needs_proration = True\n    db.add(subscription)",
+        "detail": "app.services.subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PERIOD_DAYS",
+        "kind": 5,
+        "importPath": "app.services.subscriptions",
+        "description": "app.services.subscriptions",
+        "peekOfCode": "DEFAULT_PERIOD_DAYS = 30\ndef period_end(start: datetime, days: int = DEFAULT_PERIOD_DAYS) -> datetime:\n    return start + timedelta(days=days)\ndef create_subscription(\n    db: Session, tenant_id: str, plan_id: str, quantity: int, trial_days: int | None = None\n) -> Subscription:\n    now = datetime.now(timezone.utc)\n    plan: Plan | None = db.query(Plan).filter(Plan.id == plan_id, Plan.tenant_id == tenant_id).first()\n    if plan is None:\n        raise ValueError(\"Plan not found for tenant\")",
+        "detail": "app.services.subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_usage_event",
+        "kind": 2,
+        "importPath": "app.services.usage",
+        "description": "app.services.usage",
+        "peekOfCode": "def ingest_usage_event(\n    db: Session,\n    tenant_id: str,\n    subscription_id: str,\n    metric: str,\n    quantity: float,\n    ts: datetime | None,\n    idempotency_key: str,\n    redis_client: Redis | None = None,\n) -> tuple[UsageEvent | None, bool]:",
+        "detail": "app.services.usage",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.services.usage",
+        "description": "app.services.usage",
+        "peekOfCode": "settings = get_settings()\ndef ingest_usage_event(\n    db: Session,\n    tenant_id: str,\n    subscription_id: str,\n    metric: str,\n    quantity: float,\n    ts: datetime | None,\n    idempotency_key: str,\n    redis_client: Redis | None = None,",
+        "detail": "app.services.usage",
+        "documentation": {}
+    },
+    {
+        "label": "create_webhook_event",
+        "kind": 2,
+        "importPath": "app.services.webhooks",
+        "description": "app.services.webhooks",
+        "peekOfCode": "def create_webhook_event(db: Session, tenant_id: str, event_type: str, payload: dict) -> WebhookDelivery:\n    event = WebhookEvent(tenant_id=tenant_id, type=event_type, payload=payload)\n    db.add(event)\n    db.flush()\n    delivery = WebhookDelivery(event_id=event.id)\n    db.add(delivery)\n    db.flush()\n    return delivery\ndef deliver_webhook(db: Session, delivery_id: str, webhook_url: str) -> WebhookDelivery:\n    delivery: WebhookDelivery | None = db.get(WebhookDelivery, delivery_id)",
+        "detail": "app.services.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "deliver_webhook",
+        "kind": 2,
+        "importPath": "app.services.webhooks",
+        "description": "app.services.webhooks",
+        "peekOfCode": "def deliver_webhook(db: Session, delivery_id: str, webhook_url: str) -> WebhookDelivery:\n    delivery: WebhookDelivery | None = db.get(WebhookDelivery, delivery_id)\n    if delivery is None:\n        return None\n    delivery.attempts += 1\n    try:\n        with httpx.Client(timeout=10.0) as client:\n            resp = client.post(webhook_url, json=delivery.event.payload)\n            resp.raise_for_status()\n        delivery.status = WebhookDeliveryStatus.delivered",
+        "detail": "app.services.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_ATTEMPTS",
+        "kind": 5,
+        "importPath": "app.services.webhooks",
+        "description": "app.services.webhooks",
+        "peekOfCode": "MAX_ATTEMPTS = 5\nBASE_DELAY_SECONDS = 5\ndef create_webhook_event(db: Session, tenant_id: str, event_type: str, payload: dict) -> WebhookDelivery:\n    event = WebhookEvent(tenant_id=tenant_id, type=event_type, payload=payload)\n    db.add(event)\n    db.flush()\n    delivery = WebhookDelivery(event_id=event.id)\n    db.add(delivery)\n    db.flush()\n    return delivery",
+        "detail": "app.services.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DELAY_SECONDS",
+        "kind": 5,
+        "importPath": "app.services.webhooks",
+        "description": "app.services.webhooks",
+        "peekOfCode": "BASE_DELAY_SECONDS = 5\ndef create_webhook_event(db: Session, tenant_id: str, event_type: str, payload: dict) -> WebhookDelivery:\n    event = WebhookEvent(tenant_id=tenant_id, type=event_type, payload=payload)\n    db.add(event)\n    db.flush()\n    delivery = WebhookDelivery(event_id=event.id)\n    db.add(delivery)\n    db.flush()\n    return delivery\ndef deliver_webhook(db: Session, delivery_id: str, webhook_url: str) -> WebhookDelivery:",
+        "detail": "app.services.webhooks",
+        "documentation": {}
+    },
+    {
+        "label": "invoice_run_job",
+        "kind": 2,
+        "importPath": "app.workers.jobs",
+        "description": "app.workers.jobs",
+        "peekOfCode": "def invoice_run_job(tenant_id: str) -> list[str]:\n    \"\"\"Background job to run invoices for a tenant.\"\"\"\n    with SessionLocal() as db:  # type: Session\n        invoices = run_invoicing(db, tenant_id)\n        db.commit()\n        return [str(inv.id) for inv in invoices]\ndef webhook_delivery_job(delivery_id: str, webhook_url: str) -> str:\n    with SessionLocal() as db:\n        delivery = deliver_webhook(db, delivery_id, webhook_url)\n        db.commit()",
+        "detail": "app.workers.jobs",
+        "documentation": {}
+    },
+    {
+        "label": "webhook_delivery_job",
+        "kind": 2,
+        "importPath": "app.workers.jobs",
+        "description": "app.workers.jobs",
+        "peekOfCode": "def webhook_delivery_job(delivery_id: str, webhook_url: str) -> str:\n    with SessionLocal() as db:\n        delivery = deliver_webhook(db, delivery_id, webhook_url)\n        db.commit()\n        return str(delivery.id) if delivery else \"\"",
+        "detail": "app.workers.jobs",
+        "documentation": {}
+    },
+    {
+        "label": "get_queue",
+        "kind": 2,
+        "importPath": "app.workers.queue",
+        "description": "app.workers.queue",
+        "peekOfCode": "def get_queue(name: str = \"default\") -> Queue:\n    redis = Redis.from_url(settings.redis_url)\n    return Queue(name, connection=redis)",
+        "detail": "app.workers.queue",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.workers.queue",
+        "description": "app.workers.queue",
+        "peekOfCode": "settings = get_settings()\ndef get_queue(name: str = \"default\") -> Queue:\n    redis = Redis.from_url(settings.redis_url)\n    return Queue(name, connection=redis)",
+        "detail": "app.workers.queue",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    model_config = SettingsConfigDict(env_file=\".env\", env_prefix=\"BILLING_\")\n    database_url: str = \"postgresql+psycopg2://postgres:postgres@localhost:5432/billing\"\n    redis_url: str = \"redis://localhost:6379/0\"\n    jwt_secret_key: str = \"dev-secret\"\n    jwt_algorithm: str = \"HS256\"\n    access_token_expire_minutes: int = 60 * 24\n    environment: str = \"local\"\n    metrics_port: int = 9000\n    idempotency_ttl_seconds: int = 60 * 60 * 24",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass\nsettings = get_settings()\nengine = create_engine(settings.database_url, echo=False, future=True)\nSessionLocal = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False)\n@contextmanager\ndef session_scope() -> Generator:\n    session = SessionLocal()\n    try:\n        yield session",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "session_scope",
+        "kind": 2,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "def session_scope() -> Generator:\n    session = SessionLocal()\n    try:\n        yield session\n        session.commit()\n    except Exception:\n        session.rollback()\n        raise\n    finally:\n        session.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "def get_db() -> Generator:\n    with session_scope() as db:\n        yield db",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "settings = get_settings()\nengine = create_engine(settings.database_url, echo=False, future=True)\nSessionLocal = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False)\n@contextmanager\ndef session_scope() -> Generator:\n    session = SessionLocal()\n    try:\n        yield session\n        session.commit()\n    except Exception:",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "engine = create_engine(settings.database_url, echo=False, future=True)\nSessionLocal = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False)\n@contextmanager\ndef session_scope() -> Generator:\n    session = SessionLocal()\n    try:\n        yield session\n        session.commit()\n    except Exception:\n        session.rollback()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SessionLocal = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False)\n@contextmanager\ndef session_scope() -> Generator:\n    session = SessionLocal()\n    try:\n        yield session\n        session.commit()\n    except Exception:\n        session.rollback()\n        raise",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings_dep",
+        "kind": 2,
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "peekOfCode": "def get_settings_dep():\n    return get_settings()\ndef get_redis_client(settings=Depends(get_settings_dep)) -> Redis | None:\n    try:\n        return Redis.from_url(settings.redis_url)\n    except Exception:\n        return None\ndef get_current_user(\n    db: Session = Depends(get_db),\n    token: str = Depends(oauth2_scheme),",
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_redis_client",
+        "kind": 2,
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "peekOfCode": "def get_redis_client(settings=Depends(get_settings_dep)) -> Redis | None:\n    try:\n        return Redis.from_url(settings.redis_url)\n    except Exception:\n        return None\ndef get_current_user(\n    db: Session = Depends(get_db),\n    token: str = Depends(oauth2_scheme),\n) -> User:\n    payload = decode_token(token)",
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "peekOfCode": "def get_current_user(\n    db: Session = Depends(get_db),\n    token: str = Depends(oauth2_scheme),\n) -> User:\n    payload = decode_token(token)\n    if payload is None:\n        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail=\"Invalid token\")\n    tenant_id = payload.get(\"tenant_id\")\n    sub = payload.get(\"sub\")\n    if tenant_id is None or sub is None:",
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "require_tenant_admin",
+        "kind": 2,
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "peekOfCode": "def require_tenant_admin(user: User = Depends(get_current_user)) -> User:\n    if user.role != Role.admin:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Admin required\")\n    return user\ndef tenant_header(\n    x_tenant_id: str | None = Header(default=None, alias=\"X-Tenant-ID\"),\n) -> str | None:\n    return x_tenant_id\ndef get_tenant(db: Session, tenant_id: str) -> Tenant:\n    tenant = db.query(Tenant).filter(Tenant.id == tenant_id).first()",
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "tenant_header",
+        "kind": 2,
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "peekOfCode": "def tenant_header(\n    x_tenant_id: str | None = Header(default=None, alias=\"X-Tenant-ID\"),\n) -> str | None:\n    return x_tenant_id\ndef get_tenant(db: Session, tenant_id: str) -> Tenant:\n    tenant = db.query(Tenant).filter(Tenant.id == tenant_id).first()\n    if not tenant:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=\"Tenant not found\")\n    return tenant",
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_tenant",
+        "kind": 2,
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "peekOfCode": "def get_tenant(db: Session, tenant_id: str) -> Tenant:\n    tenant = db.query(Tenant).filter(Tenant.id == tenant_id).first()\n    if not tenant:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=\"Tenant not found\")\n    return tenant",
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "app.dependencies",
+        "description": "app.dependencies",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/v1/auth/login\")\ndef get_settings_dep():\n    return get_settings()\ndef get_redis_client(settings=Depends(get_settings_dep)) -> Redis | None:\n    try:\n        return Redis.from_url(settings.redis_url)\n    except Exception:\n        return None\ndef get_current_user(\n    db: Session = Depends(get_db),",
+        "detail": "app.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "kind": 2,
+        "importPath": "app.logging_config",
+        "description": "app.logging_config",
+        "peekOfCode": "def setup_logging() -> None:\n    logging.basicConfig(\n        format=\"%(message)s\",\n        level=logging.INFO,\n    )\n    structlog.configure(\n        processors=[\n            structlog.processors.add_log_level,\n            structlog.processors.TimeStamper(fmt=\"iso\"),\n            structlog.processors.StackInfoRenderer(),",
+        "detail": "app.logging_config",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def root():\n    return {\"message\": \"Usage-based billing service\"}\napp.include_router(api_router)\n# Serve UI at /ui and mount static assets.\n@app.get(\"/ui\", include_in_schema=False)\nasync def ui_entry():\n    return FileResponse(static_dir / \"index.html\")\napp.mount(\"/ui\", StaticFiles(directory=static_dir, html=True), name=\"ui\")",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "logger = structlog.get_logger()\nrequest_id_ctx = ContextVar(\"request_id\", default=None)\nBase.metadata.create_all(bind=engine)\napp = FastAPI(title=\"Usage-Based Billing Service\", version=\"0.1.0\")\nstatic_dir = Path(__file__).parent / \"static\"\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "request_id_ctx",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "request_id_ctx = ContextVar(\"request_id\", default=None)\nBase.metadata.create_all(bind=engine)\napp = FastAPI(title=\"Usage-Based Billing Service\", version=\"0.1.0\")\nstatic_dir = Path(__file__).parent / \"static\"\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(title=\"Usage-Based Billing Service\", version=\"0.1.0\")\nstatic_dir = Path(__file__).parent / \"static\"\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n@app.middleware(\"http\")",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "static_dir",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "static_dir = Path(__file__).parent / \"static\"\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n@app.middleware(\"http\")\nasync def add_request_id(request: Request, call_next):",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "app.security",
+        "description": "app.security",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(subject: str, tenant_id: str, expires_delta: Optional[timedelta] = None) -> str:\n    expire = datetime.now(timezone.utc) + (expires_delta or timedelta(minutes=settings.access_token_expire_minutes))\n    to_encode = {\"sub\": subject, \"tenant_id\": tenant_id, \"exp\": expire}\n    return jwt.encode(to_encode, settings.jwt_secret_key, algorithm=settings.jwt_algorithm)\ndef decode_token(token: str) -> Optional[dict]:\n    try:",
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "app.security",
+        "description": "app.security",
+        "peekOfCode": "def get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(subject: str, tenant_id: str, expires_delta: Optional[timedelta] = None) -> str:\n    expire = datetime.now(timezone.utc) + (expires_delta or timedelta(minutes=settings.access_token_expire_minutes))\n    to_encode = {\"sub\": subject, \"tenant_id\": tenant_id, \"exp\": expire}\n    return jwt.encode(to_encode, settings.jwt_secret_key, algorithm=settings.jwt_algorithm)\ndef decode_token(token: str) -> Optional[dict]:\n    try:\n        payload = jwt.decode(token, settings.jwt_secret_key, algorithms=[settings.jwt_algorithm])\n        return payload",
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "app.security",
+        "description": "app.security",
+        "peekOfCode": "def create_access_token(subject: str, tenant_id: str, expires_delta: Optional[timedelta] = None) -> str:\n    expire = datetime.now(timezone.utc) + (expires_delta or timedelta(minutes=settings.access_token_expire_minutes))\n    to_encode = {\"sub\": subject, \"tenant_id\": tenant_id, \"exp\": expire}\n    return jwt.encode(to_encode, settings.jwt_secret_key, algorithm=settings.jwt_algorithm)\ndef decode_token(token: str) -> Optional[dict]:\n    try:\n        payload = jwt.decode(token, settings.jwt_secret_key, algorithms=[settings.jwt_algorithm])\n        return payload\n    except JWTError:\n        return None",
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "kind": 2,
+        "importPath": "app.security",
+        "description": "app.security",
+        "peekOfCode": "def decode_token(token: str) -> Optional[dict]:\n    try:\n        payload = jwt.decode(token, settings.jwt_secret_key, algorithms=[settings.jwt_algorithm])\n        return payload\n    except JWTError:\n        return None",
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.security",
+        "description": "app.security",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"pbkdf2_sha256\"], deprecated=\"auto\")\nsettings = get_settings()\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(subject: str, tenant_id: str, expires_delta: Optional[timedelta] = None) -> str:\n    expire = datetime.now(timezone.utc) + (expires_delta or timedelta(minutes=settings.access_token_expire_minutes))\n    to_encode = {\"sub\": subject, \"tenant_id\": tenant_id, \"exp\": expire}\n    return jwt.encode(to_encode, settings.jwt_secret_key, algorithm=settings.jwt_algorithm)",
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.security",
+        "description": "app.security",
+        "peekOfCode": "settings = get_settings()\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(subject: str, tenant_id: str, expires_delta: Optional[timedelta] = None) -> str:\n    expire = datetime.now(timezone.utc) + (expires_delta or timedelta(minutes=settings.access_token_expire_minutes))\n    to_encode = {\"sub\": subject, \"tenant_id\": tenant_id, \"exp\": expire}\n    return jwt.encode(to_encode, settings.jwt_secret_key, algorithm=settings.jwt_algorithm)\ndef decode_token(token: str) -> Optional[dict]:",
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.0001_initial",
+        "description": "migrations.versions.0001_initial",
+        "peekOfCode": "def upgrade():\n    bind = op.get_bind()\n    Base.metadata.create_all(bind=bind)\ndef downgrade():\n    bind = op.get_bind()\n    Base.metadata.drop_all(bind=bind)",
+        "detail": "migrations.versions.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.0001_initial",
+        "description": "migrations.versions.0001_initial",
+        "peekOfCode": "def downgrade():\n    bind = op.get_bind()\n    Base.metadata.drop_all(bind=bind)",
+        "detail": "migrations.versions.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.0001_initial",
+        "description": "migrations.versions.0001_initial",
+        "peekOfCode": "revision = \"0001\"\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    bind = op.get_bind()\n    Base.metadata.create_all(bind=bind)\ndef downgrade():\n    bind = op.get_bind()\n    Base.metadata.drop_all(bind=bind)",
+        "detail": "migrations.versions.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.0001_initial",
+        "description": "migrations.versions.0001_initial",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    bind = op.get_bind()\n    Base.metadata.create_all(bind=bind)\ndef downgrade():\n    bind = op.get_bind()\n    Base.metadata.drop_all(bind=bind)",
+        "detail": "migrations.versions.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.0001_initial",
+        "description": "migrations.versions.0001_initial",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    bind = op.get_bind()\n    Base.metadata.create_all(bind=bind)\ndef downgrade():\n    bind = op.get_bind()\n    Base.metadata.drop_all(bind=bind)",
+        "detail": "migrations.versions.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.0001_initial",
+        "description": "migrations.versions.0001_initial",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    bind = op.get_bind()\n    Base.metadata.create_all(bind=bind)\ndef downgrade():\n    bind = op.get_bind()\n    Base.metadata.drop_all(bind=bind)",
+        "detail": "migrations.versions.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():\n        context.run_migrations()",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )\n    with connectable.connect() as connection:\n        context.configure(connection=connection, target_metadata=target_metadata)\n        with context.begin_transaction():\n            context.run_migrations()",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\nsettings = get_settings()\nconfig.set_main_option(\"sqlalchemy.url\", settings.database_url)\ntarget_metadata = Base.metadata\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "settings = get_settings()\nconfig.set_main_option(\"sqlalchemy.url\", settings.database_url)\ntarget_metadata = Base.metadata\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_metadata = Base.metadata\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "db_session",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def db_session():\n    engine = create_engine(\"sqlite+pysqlite:///:memory:\", future=True)\n    TestingSession = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False)\n    Base.metadata.create_all(engine)\n    session = TestingSession()\n    try:\n        yield session\n        session.commit()\n    finally:\n        session.close()",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), \"..\"))\nif BASE_DIR not in sys.path:\n    sys.path.append(BASE_DIR)\nfrom app.database import Base  # noqa: E402\nimport app.domain.models  # noqa: E402,F401\n@pytest.fixture()\ndef db_session():\n    engine = create_engine(\"sqlite+pysqlite:///:memory:\", future=True)\n    TestingSession = sessionmaker(bind=engine, autocommit=False, autoflush=False, expire_on_commit=False)\n    Base.metadata.create_all(engine)",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_calculate_flat",
+        "kind": 2,
+        "importPath": "tests.test_pricing",
+        "description": "tests.test_pricing",
+        "peekOfCode": "def test_calculate_flat():\n    assert float(calculate_flat(10, 3)) == 30.0\ndef test_calculate_tiered():\n    tiers = [\n        {\"up_to\": 100, \"unit_amount\": 0.1},\n        {\"up_to\": 200, \"unit_amount\": 0.05},\n        {\"up_to\": None, \"unit_amount\": 0.03},\n    ]\n    assert float(calculate_tiered(tiers, 150)) == 12.5\ndef test_calculate_volume():",
+        "detail": "tests.test_pricing",
+        "documentation": {}
+    },
+    {
+        "label": "test_calculate_tiered",
+        "kind": 2,
+        "importPath": "tests.test_pricing",
+        "description": "tests.test_pricing",
+        "peekOfCode": "def test_calculate_tiered():\n    tiers = [\n        {\"up_to\": 100, \"unit_amount\": 0.1},\n        {\"up_to\": 200, \"unit_amount\": 0.05},\n        {\"up_to\": None, \"unit_amount\": 0.03},\n    ]\n    assert float(calculate_tiered(tiers, 150)) == 12.5\ndef test_calculate_volume():\n    tiers = [\n        {\"up_to\": 100, \"unit_amount\": 0.1},",
+        "detail": "tests.test_pricing",
+        "documentation": {}
+    },
+    {
+        "label": "test_calculate_volume",
+        "kind": 2,
+        "importPath": "tests.test_pricing",
+        "description": "tests.test_pricing",
+        "peekOfCode": "def test_calculate_volume():\n    tiers = [\n        {\"up_to\": 100, \"unit_amount\": 0.1},\n        {\"up_to\": 200, \"unit_amount\": 0.05},\n        {\"up_to\": None, \"unit_amount\": 0.03},\n    ]\n    assert float(calculate_volume(tiers, 150)) == 7.5",
+        "detail": "tests.test_pricing",
+        "documentation": {}
+    },
+    {
+        "label": "test_authentication_respects_tenant",
+        "kind": 2,
+        "importPath": "tests.test_tenant_isolation",
+        "description": "tests.test_tenant_isolation",
+        "peekOfCode": "def test_authentication_respects_tenant(db_session):\n    tenant_a = Tenant(id=uuid.uuid4(), name=\"TenantA\")\n    tenant_b = Tenant(id=uuid.uuid4(), name=\"TenantB\")\n    db_session.add_all([tenant_a, tenant_b])\n    db_session.flush()\n    create_user(db_session, tenant_id=str(tenant_a.id), email=\"user@example.com\", password=\"secret123\", role=Role.admin)\n    db_session.commit()\n    with pytest.raises(HTTPException):\n        authenticate_user(db_session, tenant_id=str(tenant_b.id), email=\"user@example.com\", password=\"secret123\")",
+        "detail": "tests.test_tenant_isolation",
+        "documentation": {}
+    },
+    {
+        "label": "test_usage_idempotency_single_row",
+        "kind": 2,
+        "importPath": "tests.test_usage_idempotency",
+        "description": "tests.test_usage_idempotency",
+        "peekOfCode": "def test_usage_idempotency_single_row(db_session):\n    tenant = Tenant(id=uuid.uuid4(), name=\"T1\")\n    now = datetime.now(timezone.utc)\n    product = Product(id=uuid.uuid4(), tenant_id=tenant.id, name=\"API\", created_at=now)\n    plan = Plan(\n        id=uuid.uuid4(),\n        tenant_id=tenant.id,\n        product_id=product.id,\n        name=\"Pro\",\n        pricing_model=PricingModel.flat,",
+        "detail": "tests.test_usage_idempotency",
+        "documentation": {}
+    }
+]

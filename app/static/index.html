@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Usage Billing Console</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #111827;
+      --accent: #38bdf8;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --border: #1f2937;
+      --error: #f87171;
+      --success: #34d399;
+      --warn: #facc15;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, -apple-system, sans-serif;
+      background: radial-gradient(circle at 20% 20%, #1e293b 0, #0f172a 35%), radial-gradient(circle at 80% 0%, #0b1727 0, #0f172a 30%);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 24px;
+    }
+    header { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 24px; }
+    h1 { margin: 0; font-size: 24px; letter-spacing: 0.02em; }
+    .pill { padding: 6px 10px; border-radius: 999px; background: rgba(56, 189, 248, 0.15); color: var(--accent); font-size: 12px; }
+    .layout { display: grid; grid-template-columns: 1.3fr 1fr; gap: 16px; align-items: start; }
+    .layout > * { min-width: 0; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px;
+      box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25);
+    }
+    .card h2 { margin: 0 0 10px; font-size: 16px; }
+    label { display: block; color: var(--muted); font-size: 13px; margin-top: 10px; }
+    input, select, textarea {
+      width: 100%; padding: 10px 12px; margin-top: 6px;
+      border-radius: 10px; border: 1px solid var(--border);
+      background: #0b1220; color: var(--text); font-size: 14px;
+    }
+    textarea { resize: vertical; min-height: 72px; }
+    button {
+      margin-top: 14px;
+      padding: 10px 12px;
+      width: 100%;
+      border: 1px solid var(--accent);
+      background: linear-gradient(120deg, #0891b2, #38bdf8);
+      color: #0b1220;
+      border-radius: 10px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: transform 120ms ease, box-shadow 120ms ease;
+    }
+    button:hover { transform: translateY(-1px); box-shadow: 0 10px 25px rgba(56, 189, 248, 0.35); }
+    button:disabled { opacity: 0.6; cursor: not-allowed; transform: none; box-shadow: none; }
+    pre {
+      background: #0b1220;
+      color: #cbd5e1;
+      padding: 12px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      min-height: 220px;
+      max-height: 60vh;
+      width: 100%;
+      overflow: auto;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-size: 13px;
+    }
+    .stack { display: grid; gap: 10px; }
+    .row { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; }
+    .badge { display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; background: rgba(52, 211, 153, 0.12); color: var(--success); border-radius: 999px; font-size: 12px; }
+    .status { font-size: 13px; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <div class="pill">Usage-Based Billing</div>
+      <h1>Multi-tenant Console</h1>
+      <div class="status">Talks to the FastAPI backend on the same host.</div>
+    </div>
+    <div class="badge" id="sessionInfo">Not authenticated</div>
+  </header>
+
+  <div class="layout">
+    <div class="stack">
+      <div class="card">
+        <h2>Tenant Bootstrap</h2>
+        <div class="row">
+          <div>
+            <label>Tenant Name</label>
+            <input id="tenantName" placeholder="Acme Corp" />
+          </div>
+          <div>
+            <label>Admin Email</label>
+            <input id="adminEmail" type="email" placeholder="admin@acme.com" />
+          </div>
+        </div>
+        <div class="row">
+          <div>
+            <label>Admin Password</label>
+            <input id="adminPassword" type="password" placeholder="••••••••" />
+          </div>
+          <div>
+            <label>Webhook URL (optional)</label>
+            <input id="webhookUrl" placeholder="https://example.com/webhook" />
+          </div>
+        </div>
+        <button id="btnCreateTenant">Create Tenant + Token</button>
+      </div>
+
+      <div class="card">
+        <h2>Login (JWT)</h2>
+        <div class="row">
+          <div>
+            <label>Tenant ID</label>
+            <input id="loginTenantId" placeholder="tenant uuid" />
+          </div>
+          <div>
+            <label>Email</label>
+            <input id="loginEmail" type="email" placeholder="user@acme.com" />
+          </div>
+          <div>
+            <label>Password</label>
+            <input id="loginPassword" type="password" placeholder="•••••••" />
+          </div>
+        </div>
+        <button id="btnLogin">Login</button>
+      </div>
+
+      <div class="card">
+        <h2>Create Plan</h2>
+        <div class="row">
+          <div>
+            <label>Plan Name</label>
+            <input id="planName" placeholder="Pro" />
+          </div>
+          <div>
+            <label>Pricing Model</label>
+            <select id="pricingModel">
+              <option value="flat">flat</option>
+              <option value="tiered">tiered</option>
+              <option value="volume">volume</option>
+            </select>
+          </div>
+          <div>
+            <label>Price (flat/unit)</label>
+            <input id="planPrice" type="number" step="0.01" value="10" />
+          </div>
+        </div>
+        <div class="row">
+          <div>
+            <label>Currency</label>
+            <input id="planCurrency" value="USD" />
+          </div>
+          <div>
+            <label>Product Name</label>
+            <input id="productName" placeholder="API" />
+          </div>
+          <div>
+            <label>Tiers JSON (for tiered/volume)</label>
+            <textarea id="planTiers" placeholder='[{"up_to":100,"unit_amount":0.1}]'></textarea>
+          </div>
+        </div>
+        <button id="btnCreatePlan">Create Plan</button>
+      </div>
+      
+      <div class="card">
+        <h2>Subscribe & Record Usage</h2>
+        <div class="row">
+          <div>
+            <label>Plan ID</label>
+            <input id="subPlanId" placeholder="plan uuid" />
+          </div>
+          <div>
+            <label>Quantity</label>
+            <input id="subQty" type="number" value="1" />
+          </div>
+          <div>
+            <label>Trial Days (optional)</label>
+            <input id="trialDays" type="number" />
+          </div>
+        </div>
+        <button id="btnCreateSub">Create Subscription</button>
+        <hr style="border: 1px solid var(--border); margin: 14px 0;" />
+        <div class="row">
+          <div>
+            <label>Subscription ID</label>
+            <input id="usageSubId" placeholder="subscription uuid" />
+          </div>
+          <div>
+            <label>Metric</label>
+            <input id="usageMetric" value="api_calls" />
+          </div>
+          <div>
+            <label>Quantity</label>
+            <input id="usageQty" type="number" value="1" />
+          </div>
+        </div>
+        <button id="btnUsage">Ingest Usage</button>
+      </div>
+
+      <div class="card">
+        <h2>Run Invoices & MRR</h2>
+        <div class="row">
+          <div>
+            <label>Tenant ID</label>
+            <input id="invoiceTenantId" placeholder="tenant uuid" />
+          </div>
+        </div>
+        <button id="btnRunInvoices">Run Invoice</button>
+        <button id="btnGetMRR" style="margin-top:8px;">Get MRR</button>
+      </div>
+    </div>
+
+    <div class="card" id="logCard">
+      <h2>Activity</h2>
+      <pre id="logPane">// Logs will appear here</pre>
+    </div>
+  </div>
+
+  <script>
+    const apiBase = window.location.origin;
+    let token = "";
+    let tenantId = "";
+
+    function log(title, data, level = "info") {
+      const pane = document.getElementById("logPane");
+      const color = level === "error" ? "var(--error)" : level === "warn" ? "var(--warn)" : "var(--success)";
+      pane.innerHTML = `[${new Date().toLocaleTimeString()}] ${title}\n` +
+        (data ? JSON.stringify(data, null, 2) : "") +
+        "\n\n" + pane.innerHTML;
+      pane.style.borderColor = color;
+    }
+
+    function headers() {
+      const h = { "Content-Type": "application/json" };
+      if (token) h["Authorization"] = `Bearer ${token}`;
+      if (tenantId) h["X-Tenant-ID"] = tenantId;
+      return h;
+    }
+
+    async function safeFetch(path, payload, method = "POST") {
+      const res = await fetch(`${apiBase}${path}`, {
+        method,
+        headers: headers(),
+        body: payload ? JSON.stringify(payload) : undefined,
+      });
+      if (!res.ok) {
+        const txt = await res.text();
+        throw new Error(`${res.status}: ${txt}`);
+      }
+      return res.json();
+    }
+
+    document.getElementById("btnCreateTenant").onclick = async () => {
+      try {
+        const payload = {
+          name: tenantId || document.getElementById("tenantName").value,
+          admin_email: document.getElementById("adminEmail").value,
+          admin_password: document.getElementById("adminPassword").value,
+          webhook_url: document.getElementById("webhookUrl").value || null,
+        };
+        const data = await safeFetch("/v1/tenants", payload);
+        tenantId = data.tenant.id;
+        token = data.token;
+        document.getElementById("sessionInfo").textContent = `Tenant ${tenantId.slice(0, 8)} • token set`;
+        log("Tenant created", data);
+      } catch (err) { log("Error creating tenant", { error: String(err) }, "error"); }
+    };
+
+    document.getElementById("btnLogin").onclick = async () => {
+      try {
+        const payload = {
+          tenant_id: document.getElementById("loginTenantId").value,
+          email: document.getElementById("loginEmail").value,
+          password: document.getElementById("loginPassword").value,
+        };
+        tenantId = payload.tenant_id;
+        const data = await safeFetch("/v1/auth/login", payload);
+        token = data.access_token;
+        document.getElementById("sessionInfo").textContent = `Tenant ${tenantId.slice(0, 8)} • token set`;
+        log("Logged in", data);
+      } catch (err) { log("Login failed", { error: String(err) }, "error"); }
+    };
+
+    document.getElementById("btnCreatePlan").onclick = async () => {
+      try {
+        const tiersRaw = document.getElementById("planTiers").value.trim();
+        const payload = {
+          name: document.getElementById("planName").value,
+          pricing_model: document.getElementById("pricingModel").value,
+          price: Number(document.getElementById("planPrice").value || 0),
+          currency: document.getElementById("planCurrency").value || "USD",
+          product_name: document.getElementById("productName").value || "Product",
+          tiers: tiersRaw ? JSON.parse(tiersRaw) : null,
+        };
+        const data = await safeFetch(`/v1/tenants/${tenantId}/plans`, payload);
+        log("Plan created", data);
+        document.getElementById("subPlanId").value = data.id;
+      } catch (err) { log("Create plan failed", { error: String(err) }, "error"); }
+    };
+
+    document.getElementById("btnCreateSub").onclick = async () => {
+      try {
+        const payload = {
+          plan_id: document.getElementById("subPlanId").value,
+          quantity: Number(document.getElementById("subQty").value || 1),
+          trial_days: document.getElementById("trialDays").value ? Number(document.getElementById("trialDays").value) : null,
+        };
+        const data = await safeFetch(`/v1/tenants/${tenantId}/subscriptions`, payload);
+        log("Subscription created", data);
+        document.getElementById("usageSubId").value = data.id;
+      } catch (err) { log("Create subscription failed", { error: String(err) }, "error"); }
+    };
+
+    document.getElementById("btnUsage").onclick = async () => {
+      try {
+        const payload = {
+          subscription_id: document.getElementById("usageSubId").value,
+          metric: document.getElementById("usageMetric").value || "api_calls",
+          quantity: Number(document.getElementById("usageQty").value || 1),
+        };
+        const headersOverride = headers();
+        headersOverride["Idempotency-Key"] = crypto.randomUUID();
+        const res = await fetch(`${apiBase}/v1/tenants/${tenantId}/usage`, {
+          method: "POST",
+          headers: headersOverride,
+          body: JSON.stringify(payload),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(JSON.stringify(data));
+        log("Usage ingested", data);
+      } catch (err) { log("Usage ingest failed", { error: String(err) }, "error"); }
+    };
+
+    document.getElementById("btnRunInvoices").onclick = async () => {
+      try {
+        const data = await safeFetch(`/v1/tenants/${tenantId}/invoices/run`, null);
+        log("Invoices generated", data);
+      } catch (err) { log("Invoice run failed", { error: String(err) }, "error"); }
+    };
+
+    document.getElementById("btnGetMRR").onclick = async () => {
+      try {
+        const data = await safeFetch(`/v1/tenants/${tenantId}/metrics/mrr`, null, "GET");
+        log("MRR", data);
+      } catch (err) { log("MRR fetch failed", { error: String(err) }, "error"); }
+    };
+  </script>
+</body>
+</html>
